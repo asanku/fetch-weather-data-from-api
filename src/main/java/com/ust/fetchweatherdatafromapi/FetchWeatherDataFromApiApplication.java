@@ -12,3 +12,5 @@ public class FetchWeatherDataFromApiApplication {
     }
 
 }
+
+//postman url http://localhost:8080/api/v1.0/weather/search?stationName=aeropuertopalma&period=lastdata
